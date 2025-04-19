@@ -10,11 +10,17 @@
 Shortage and scarcity are independent of each other. There can be shortage without scarcity and vice-versa. 
 
 - **Example of shortage without scarcity:**
-When rent controls are placed in the housing markets a shortage occurs even though there might be enough physical housing space available for all the people to be accommodated (no scarcity).
-This is because **at low prices demand increases**. People who would on the face of rising prices be forced to share housing can now afford to keep the entire place to themselves. At the same time people on the search for housing find it extremely hard to find a place. 
-Clearly, this is shortage not scarcity. 
+
+    When rent controls are placed in the housing markets a shortage occurs even though there might be enough physical housing space available for all the people to be accommodated (no scarcity).
+
+    This is because **at low prices demand increases**. People who would on the face of rising prices be forced to share housing can now afford to keep the entire place to themselves. At the same time people on the search for housing find it extremely hard to find a place. 
+
+    Clearly, this is shortage not scarcity. 
 
 - **Example of scarcity without shortage**
-Consider the example given in the book of the San Francisco earthquake of fire of 1906. More than half the city's houses were destroyed causing scarcity of housing. Yet, there was no shortage. 
-This was because in the absence of rent controls, prices were allowed to rise and renters left without a home had incentives to use lesser space and those with space in their homes had incentives to take in people. 
-Also, **since rising prices increase supply**. In this case the rising prices also made building new houses feasible. 
+
+    Consider the example given in the book of the San Francisco earthquake of fire of 1906. More than half the city's houses were destroyed causing scarcity of housing. Yet, there was no shortage. 
+
+    This was because in the absence of rent controls, prices were allowed to rise and renters left without a home had incentives to use lesser space and those with space in their homes had incentives to take in people. 
+
+    Also, **since rising prices increase supply**. In this case the rising prices also made building new houses feasible. 
