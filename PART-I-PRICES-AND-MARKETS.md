@@ -1,4 +1,4 @@
-# Can there be a growing scarcity without a growing shortage—or a growing shortage without a growing scarcity? Explain with examples. (38, 47-48)
+# Can there be a growing scarcity without a growing shortage—or a growing shortage without a growing scarcity? Explain with examples.
 
 - Definitions
   - **Shortage**
@@ -23,4 +23,14 @@ Shortage and scarcity are independent of each other. There can be shortage witho
 
     This was because in the absence of rent controls, prices were allowed to rise and renters left without a home had incentives to use lesser space and those with space in their homes had incentives to take in people. 
 
-    Also, **since rising prices increase supply**. In this case the rising prices also made building new houses feasible. 
+    Also, **rising prices increase supply**. In this case the rising prices also made building new houses feasible. 
+
+# Can a decision be economic, if there is no money involved? Why or why not? (pages 6–7)
+
+A decision can absolutely be economic even if no money is involved. Economics is fundamentally the study of how people make choices under conditions of scarcity, which means deciding how to allocate limited resources—such as time, effort, or opportunities—not just money
+
+Recall the example, given in the book about a military medical team arriving on a battlefield to treat injured soldiers. The team is confronted with the classic economic problem of allocating scarce resources that have alternative uses. 
+
+There are seldom enough medical staff to treat all wounded soldiers. Some soldiers might have mild injuries that might self-heal even if they aren't given immediate medical attention, others might survive if given immediate medical attention, still others unfortunately might not survive even if given the required medical attention. The medical staff has to thus decide how best to allocate the resources at its disposal. 
+
+# Can there be surplus food in a society where people are hungry? Explain why or why not (54 - 55).
