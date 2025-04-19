@@ -1,4 +1,4 @@
-# 1) Can there be a growing scarcity without a growing shortage—or a growing shortage without a growing scarcity? Explain with examples.
+### 1) Can there be a growing scarcity without a growing shortage—or a growing shortage without a growing scarcity? Explain with examples.
 
 - Definitions
   - **Shortage**
@@ -25,7 +25,7 @@ Shortage and scarcity are independent of each other. There can be shortage witho
 
     Also, **rising prices increase supply**. In this case the rising prices also made building new houses feasible. 
 
-# 2) Can a decision be economic, if there is no money involved? Why or why not?
+### 2) Can a decision be economic, if there is no money involved? Why or why not?
 
 A decision can absolutely be economic even if no money is involved. Economics is fundamentally the study of how people make choices under conditions of scarcity, which means deciding how to allocate limited resources—such as time, effort, or opportunities—not just money
 
@@ -33,13 +33,13 @@ Recall the example, given in the book about a military medical team arriving on 
 
 There are seldom enough medical staff to treat all wounded soldiers. Some soldiers might have mild injuries that might self-heal even if they aren't given immediate medical attention, others might survive if given immediate medical attention, still others unfortunately might not survive even if given the required medical attention. The medical staff has to thus decide how best to allocate the resources at its disposal. 
 
-# 3)Can there be surplus food in a society where people are hungry? Explain why or why not.
+### 3)Can there be surplus food in a society where people are hungry? Explain why or why not.
 
 Yes. When the government sets floor prices for food items it guarantees that if market prices under supply and demand caused the food price to drop below the government set price, the government will buy up what the market is unwilling to. 
 
 **When prices are high, supply increases and demand decreases.** Due to the artificially enhanced food prices supply increases leading to a surplus. At the same time demand decreases since people in the poorest sections of society cannot afford to buy sufficient food at artificially high prices. This causes people to go hungry while the government buys up the unsold food items that went unsold in the market under the higher prices. 
 
-# 4) When a housing shortage suddenly disappears, within a time period too short for any new housing to have been built, and yet people no longer have any trouble finding a vacant home or apartment, what has probably happened? What will probably happen in the longer run? Explain.
+### 4) When a housing shortage suddenly disappears, within a time period too short for any new housing to have been built, and yet people no longer have any trouble finding a vacant home or apartment, what has probably happened? What will probably happen in the longer run? Explain.
 
 Assume that rent control laws were applicable earlier that lead to the shortage in housing in the first place. 
 
@@ -47,7 +47,7 @@ When rent control laws are ended, housing prices are no longer kept artificially
 
 Without rent control laws in the long run assuming increasing demand, prices go up. Since, increased prices lead to increased supply building new houses becomes profitable. This was not the case under rent control laws as the artificially lowered prices decreased supply of new housing as well. 
 
-# 5) Which of the following are—or are not—affected by price controls that limit how high the product’s price can go: (a) the quantity supplied, (b) the quantity demanded, (c) the quality of the product, (d) a black market for the product, (e) hoarding of the product, (f) the supply of auxiliary services that usually go with the product, or (g) efficiency in the allocation of resources? Explain in each case. (a: pages 41–44; b: pages 39–41; c: pages 49–50, 51–53; d: pages 50–51, 53; e: pages 48–49; f: page 42; g: pages 52–53, 64–65)
+### 5) Which of the following are—or are not—affected by price controls that limit how high the product’s price can go: (a) the quantity supplied, (b) the quantity demanded, (c) the quality of the product, (d) a black market for the product, (e) hoarding of the product, (f) the supply of auxiliary services that usually go with the product, or (g) efficiency in the allocation of resources? Explain in each case. (a: pages 41–44; b: pages 39–41; c: pages 49–50, 51–53; d: pages 50–51, 53; e: pages 48–49; f: page 42; g: pages 52–53, 64–65)
 
 - **a) Do price ceilings affect quantity supplied?**
 
