@@ -65,4 +65,6 @@ Without rent control laws in the long run assuming increasing demand, prices go 
 
 - **d) Do price ceilings lead to black markets?**
 
-    
+    Price ceilings lead to shortages. Though it may be legally forbidden to purchase price-controlled items at a higher than set price, individuals may regardless still choose to do so since it is mutually beneficial (the seller gets to make more money while the buyer gets a way around the shortage to get the good they desire). The black market prices are usually more than the prices would have been in a free market since the legal risks also have to be compensated. 
+
+- **e) Do price ceilings cause hoarding of the product?**
