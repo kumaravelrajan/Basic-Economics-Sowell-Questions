@@ -25,7 +25,7 @@ Shortage and scarcity are independent of each other. There can be shortage witho
 
     Also, **rising prices increase supply**. In this case the rising prices also made building new houses feasible. 
 
-# Can a decision be economic, if there is no money involved? Why or why not? (pages 6–7)
+# Can a decision be economic, if there is no money involved? Why or why not?
 
 A decision can absolutely be economic even if no money is involved. Economics is fundamentally the study of how people make choices under conditions of scarcity, which means deciding how to allocate limited resources—such as time, effort, or opportunities—not just money
 
