@@ -33,4 +33,8 @@ Recall the example, given in the book about a military medical team arriving on 
 
 There are seldom enough medical staff to treat all wounded soldiers. Some soldiers might have mild injuries that might self-heal even if they aren't given immediate medical attention, others might survive if given immediate medical attention, still others unfortunately might not survive even if given the required medical attention. The medical staff has to thus decide how best to allocate the resources at its disposal. 
 
-# Can there be surplus food in a society where people are hungry? Explain why or why not (54 - 55).
+# Can there be surplus food in a society where people are hungry? Explain why or why not.
+
+Yes. When the government sets floor prices for food items it guarantees that if market prices under supply and demand caused the food price to drop below the government set price, the government will buy up what the market is unwilling to. 
+
+**When prices are high, supply increases and demand decreases.** Due to the artificially enhanced food prices supply increases leading to a surplus. At the same time demand decreases since people in the poorest sections of society cannot afford to buy sufficient food at artificially high prices. This causes people to go hungry while the government buys up the unsold food items that went unsold in the market under the higher prices. 
