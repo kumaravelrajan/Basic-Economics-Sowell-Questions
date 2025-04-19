@@ -1,4 +1,4 @@
-# Can there be a growing scarcity without a growing shortage—or a growing shortage without a growing scarcity? Explain with examples. (38, 47-48)
+### Can there be a growing scarcity without a growing shortage—or a growing shortage without a growing scarcity? Explain with examples. (38, 47-48)
 
 - Definitions
   - *Shortage* 
