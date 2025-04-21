@@ -123,7 +123,9 @@ Prices are usually higher in low-income neighborhoods. This is not due to indivi
 
     The fraction of dishonest people in such neighborhoods are the real source of many of the higher costs behind the higher prices charged by businesses operating in those neighborhoods. But it is both intellectually and emotionally easier to blame high prices on those who collect them, rather than on those who cause them. 
 
-### 8) 
+### 8) When a government institution or program produces counterproductive results, is that necessarily a sign of irrationality or incompetence on the part of those who run that particular institution or program? Explain with examples. (pages 70–72)
+
+
 
 
 
