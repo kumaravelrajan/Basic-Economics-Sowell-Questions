@@ -33,7 +33,7 @@ Recall the example, given in the book about a military medical team arriving on 
 
 There are seldom enough medical staff to treat all wounded soldiers. Some soldiers might have mild injuries that might self-heal even if they aren't given immediate medical attention, others might survive if given immediate medical attention, still others unfortunately might not survive even if given the required medical attention. The medical staff has to thus decide how best to allocate the resources at its disposal. 
 
-### 3)Can there be surplus food in a society where people are hungry? Explain why or why not.
+### 3) Can there be surplus food in a society where people are hungry? Explain why or why not.
 
 Yes. When the government sets floor prices for food items it guarantees that if market prices under supply and demand caused the food price to drop below the government set price, the government will buy up what the market is unwilling to. 
 
@@ -47,7 +47,7 @@ When rent control laws are ended, housing prices are no longer kept artificially
 
 Without rent control laws in the long run assuming increasing demand, prices go up. Since, increased prices lead to increased supply building new houses becomes profitable. This was not the case under rent control laws as the artificially lowered prices decreased supply of new housing as well. 
 
-### 5) Which of the following are—or are not—affected by price controls that limit how high the product’s price can go: (a) the quantity supplied, (b) the quantity demanded, (c) the quality of the product, (d) a black market for the product, (e) hoarding of the product, (f) the supply of auxiliary services that usually go with the product, or (g) efficiency in the allocation of resources? Explain in each case. (a: pages 41–44; b: pages 39–41; c: pages 49–50, 51–53; d: pages 50–51, 53; e: pages 48–49; f: page 42; g: pages 52–53, 64–65)
+### 5) Which of the following are—or are not—affected by price controls that limit how high the product’s price can go: (a) the quantity supplied, (b) the quantity demanded, (c) the quality of the product, (d) a black market for the product, (e) hoarding of the product, (f) the supply of auxiliary services that usually go with the product, or (g) efficiency in the allocation of resources? Explain in each case.
 
 - **a) Do price ceilings affect quantity supplied?**
 
@@ -68,3 +68,33 @@ Without rent control laws in the long run assuming increasing demand, prices go 
     Price ceilings lead to shortages. Though it may be legally forbidden to purchase price-controlled items at a higher than set price, individuals may regardless still choose to do so since it is mutually beneficial (the seller gets to make more money while the buyer gets a way around the shortage to get the good they desire). The black market prices are usually more than the prices would have been in a free market since the legal risks also have to be compensated. 
 
 - **e) Do price ceilings cause hoarding of the product?**
+
+    Price ceilings artificially lower the price of a product. This leads to increased demand and causes shortages. The shortages cause people to hoard the price-controlled stuff whenever they do come across it because of the uncertainty of getting the price-controlled good at a later point of time. 
+
+    Services usually cannot be hoarded. If barber rates were price controlled you would not cut your hair twice back-to-back so that you could go twice as long without having to visit a barber again. 
+
+    Hoarding also depends on the nature of the price-controlled good. Not all price controlled goods can be hoarded. If price controls were placed on strawberries, the shortage would be less acute since they cannot be hoarded as they are too perishable. 
+
+- **f) Do price ceilings affect the supply of auxiliary services that usually go with the product**
+
+    Lower prices cause a dip in supply. Thus, when price ceilings are imposed there is a dip in the supply of auxiliary services usually attached with the product. 
+
+    For example, under rental price ceilings the maintenance and upkeep of rental properties is usually ignored because landlords no longer have to maintain the appearance of their rental properties owing to the increased demand at lower prices. 
+
+- **g) Do price ceilings affect efficiency in the allocation of resources?**
+
+    Yes. Price ceilings keep prices artificially low. This means originally the demand is higher and in a free market the price would be further up than the ceiling price. 
+
+    Under the artificially lowered price, demand goes even further up and results in shortages. It might cause people with less urgent needs to consume more than they require while people with more urgent needs are left dealing with shortages. 
+
+    Consider the example given in the book where under the British government's medical system a woman with cancer had her operation postponed so many times that the malignancy eventually became inoperable while a 12-year old girl was given a breast implant. 
+
+### 6) Building ordinary housing and building luxury housing involves using many of the same resources, such as bricks, pipes, and construction labor. How does the allocation of these resources between ordinary housing and luxury housing tend to change after rent control laws are passed?
+
+Rent control laws artificially lower prices. At reduced prices demand increases and supply decreases. 
+
+Recovering the cost of building new rent controlled housing and making a profit becomes extremely hard. Hence, builders construct new properties that are exempt from rent control laws. 
+
+These are usually luxury housing and commercial buildings. Hence, even though ordinary housing and luxury housing use many of the same resources, under rent control laws building luxury housing is preferred by builders since they represent the best chance of recovering the costs of acquiring these resources and making a profit. 
+
+### 7) Are prices usually higher or lower in low–income neighborhoods? Why? Include among prices the interest rate on money borrowed and the cost of getting paychecks cashed. (pages 66–68)
