@@ -97,4 +97,33 @@ Recovering the cost of building new rent controlled housing and making a profit 
 
 These are usually luxury housing and commercial buildings. Hence, even though ordinary housing and luxury housing use many of the same resources, under rent control laws building luxury housing is preferred by builders since they represent the best chance of recovering the costs of acquiring these resources and making a profit. 
 
-### 7) Are prices usually higher or lower in low–income neighborhoods? Why? Include among prices the interest rate on money borrowed and the cost of getting paychecks cashed. (pages 66–68)
+### 7) Are prices usually higher or lower in low–income neighborhoods? Why? Include among prices the interest rate on money borrowed and the cost of getting paychecks cashed.
+
+A misunderstanding / non-understanding of the basic principles of economics leads people to characterize results of systemic causation as results of individual intention. Similar to attributing swaying of trees to an invisible spirit instead of the actual systemic cause i.e. variations in atmospheric pressure. 
+
+Prices are usually higher in low-income neighborhoods. This is not due to individual intentions (greed of people operating businesses in low-income areas). Rather, the cause in systemic. 
+
+- **Higher prices in low-income neighborhoods:**
+
+    The interest rates charged by pawnbrokers and small finance companies in low income neighborhoods is higher than the rates charged by banks in middle-class communities. Check-cashing companies usually operating in low-income neighborhoods charge a fee while people in middle-class neighborhoods get their checks cashed in free of charge in their banks. 
+
+- **Systemic causation for higher prices in low-income neighborhoods instead of attributing them to individual intentions:** 
+
+    But instead of chalking these things up to individual greed of people keen on exploiting poor people, these must be chalked up to the simple systemic explanation - it often costs more to deliver goods and services in low-income neighborhoods. 
+
+    - Higher insurance costs and higher costs for various security precautions, due to higher rates of crime and vandalism. 
+    
+    - Also, leaving aside these risk factors, even the cost of doing business per dollar in low-income neighborhoods is more. Consider a check cashing company operating in a low-income neighborhood. An armored car delivering money in small denominations to a neighborhood finance company or a small check-cashing agency in a low-income area costs just as much as an armored car delivering a hundred times as much value of money, in larger denominations of bills, to a bank in a suburban shopping mall.
+
+ - **The risk of attributing higher prices in low-income areas to individual intentions (i.e. personal greed)** 
+ 
+    Treating the causes of higher prices and higher interest rates in low-income neighborhoods as being personal greed or exploitation, and trying to remedy it by imposing price controls and interest rate ceilings only ensures that even less will be supplied to people living in low-income neighborhoods thereafter. This is a direct corollary of reduced prices resulting in reduced supply. 
+
+- **Crime in low-income areas as the cause of higher prices rather than the greed of business owners**
+
+    The fraction of dishonest people in such neighborhoods are the real source of many of the higher costs behind the higher prices charged by businesses operating in those neighborhoods. But it is both intellectually and emotionally easier to blame high prices on those who collect them, rather than on those who cause them. 
+
+### 8) 
+
+
+
