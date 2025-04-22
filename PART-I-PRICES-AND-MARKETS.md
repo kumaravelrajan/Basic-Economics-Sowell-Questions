@@ -1,3 +1,13 @@
+### Special mention - Scarcity and competition
+
+Quoting directly from the book - 
+
+Scarcity means that everyone’s desires cannot be satisfied completely, regardless of which particular economic system or government policy we choose—and regardless of whether an individual or a society is poor or prosperous, wise or foolish, noble or ignoble. 
+
+**Competition among people for scarce resources is inherent. It is not a question whether we like or dislike competition. Scarcity means that we do not have the option to choose whether or not to have an economy in which people compete.** 
+
+That is the only kind of economy that is possible—and our only choice is among the particular methods that can be used for that competition.
+
 ### 1) Can there be a growing scarcity without a growing shortage—or a growing shortage without a growing scarcity? Explain with examples.
 
 - Definitions
@@ -123,9 +133,15 @@ Prices are usually higher in low-income neighborhoods. This is not due to indivi
 
     The fraction of dishonest people in such neighborhoods are the real source of many of the higher costs behind the higher prices charged by businesses operating in those neighborhoods. But it is both intellectually and emotionally easier to blame high prices on those who collect them, rather than on those who cause them. 
 
-### 8) When a government institution or program produces counterproductive results, is that necessarily a sign of irrationality or incompetence on the part of those who run that particular institution or program? Explain with examples. (pages 70–72)
+### 8) When a government institution or program produces counterproductive results, is that necessarily a sign of irrationality or incompetence on the part of those who run that particular institution or program? Explain with examples.
 
+In the last answer we discussed about the tendency to explain things having systemic causes as things being caused due to individual intentions. The specific example of this was the tendency to attribute higher prices being charged by businesses in low-income neighborhoods to the greed of businesses operating in these areas. 
 
+But this tendency to blame individual intentions for systemic causes extends beyond greed. 
 
+For example, bureaucrats are admonished for their stupidity / incompetence when government policies go wrong. However, a closer look often shows us that these bureaucrats are in fact not incompetent. Rather, the choices they are making are quite rational in the fact of the incentives they have and the constraints they face. 
 
+For example, blaming shortages caused due to price ceilings could easily be blamed on bureaucrats tasked by politicians to handle the implementation. However, it is not the incompetence of bureaucrats that caused the shortages. It is the policy itself that caused it. There was no way another "competent" bureaucrat could have implemented price controls with differing outcomes. 
+
+### 9) We all consider some things more important than others. Why then can there be a problem when some official government policy establishes “national priorities”? (pages 77–78)
 
