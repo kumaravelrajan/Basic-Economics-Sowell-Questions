@@ -143,5 +143,36 @@ For example, bureaucrats are admonished for their stupidity / incompetence when 
 
 For example, blaming shortages caused due to price ceilings could easily be blamed on bureaucrats tasked by politicians to handle the implementation. However, it is not the incompetence of bureaucrats that caused the shortages. It is the policy itself that caused it. There was no way another "competent" bureaucrat could have implemented price controls with differing outcomes. 
 
-### 9) We all consider some things more important than others. Why then can there be a problem when some official government policy establishes “national priorities”? (pages 77–78)
+### 9) We all consider some things more important than others. Why then can there be a problem when some official government policy establishes “national priorities”?
 
+When an official government policy establishes "national priorities" it is saying that thing A is categorically more important than thing B. However, this is the direct opposite of incremental substitution where we recognize that both A and B are important but the amount we need of A depends on the amount of B we are willing to forego. It also depends on the amount of A and B we currently have. Incremental substitutions tend to produce more beneficial results than categorical priorities.
+
+A price coordinated economy facilitates incremental substitution but political decision making tends towards categorical priorities. 
+
+For example, one may believe that health is more important than entertainment. But the point to consider is how much more important (incremental thinking) and not that health is categorically more important than entertainment. If it were categorically the case then having a 20 year's worth of band-aids would have higher priority than going to a movie. 
+
+Another example is the effect of increased bureaucracy on companies. It is appreciable from a government standpoint that it wants to pass as many laws as possible to safeguard the employees from any possible risk. But at some point the costs outweigh the benefits. In this case, the companies are under more and more pressure to factor into their decision making the different legalities which can trip them for every decision they take. Here, the question is not which is categorically more important - employee safety or ease of doing business. Rather, the question should be on incremental terms. How far can a government go to ensure employee safety before the business owners feel suffocated.
+
+### 10) We tend to think of costs as the money we pay for things. But does that mean that there would be no costs in a primitive society that did not yet use money or in a modern cooperative community, where people collectively produce the goods and services they use and do not charge each other for them? 
+
+- **Costs in a market economy with money**
+
+    Scarce resources have alternative uses. The value placed on one of these uses by an individual or company sets the cost that has to be paid by others that want to bid some of these resources away for their own use. For a societal standpoint, this ensures resources tend to flow to their most valued uses when there is price competition in the market place. 
+
+    This does not make one good categorically more important than others. Adjustments are on the other hand, incremental. Only that amount of milk as valuable to ice cream consumers as to it is to cheese purchasers will be used to make ice cream or yogurt. 
+
+    Prices convey an underlying reality. The price of a good basically states what someone else is willing to offer for the product and what you would have to pay to bid away this product from the competitor. 
+
+- **Costs without the concept of money**
+
+    From a societal standpoint, *the costs of anything is the value that is has in alternative uses.* 
+    
+    In a market economy with money, the price that one is willing to pay for a good becomes the cost that others are forced to pay in order to get a share of the same scarce resources or the products made from these resources. 
+
+    But irrespective of the economic system used by a society or whether or not money is the medium of value exchange, the "real cost" is defined as follows: *the real cost of anything is its value in alternative uses.*
+
+    The real cost of building a bridge is whatever else could have been built with that same labor and material. This is also true at the level of a given individual. The cost of watching a television sitcom or soap opera is the value of the other things that could have been done with that same time.
+
+### 11) How does rent control affect the average number of persons per apartment and the average amount of time that the same persons stay in the same apartment? 
+
+ 
