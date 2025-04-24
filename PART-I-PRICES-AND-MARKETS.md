@@ -173,6 +173,5 @@ Another example is the effect of increased bureaucracy on companies. It is appre
 
     The real cost of building a bridge is whatever else could have been built with that same labor and material. This is also true at the level of a given individual. The cost of watching a television sitcom or soap opera is the value of the other things that could have been done with that same time.
 
-### 11) How does rent control affect the average number of persons per apartment and the average amount of time that the same persons stay in the same apartment? 
+### 11) How does rent control affect the average number of persons per apartment and the average amount of time that the same persons stay in the same apartment? (pages 39–41)
 
- 
